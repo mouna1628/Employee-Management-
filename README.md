@@ -5,8 +5,6 @@ This repository consists of Java Program for Employee Management System. In this
 
 The Program is completely based on OOPs concept.
 
-<img src="Images/Java.png">
-
 # How to run ?
 For Compliation : <code>javac EmployManagementSystem.java</code>
 
